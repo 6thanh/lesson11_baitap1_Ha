@@ -1,0 +1,46 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+	width: 627px;
+	height: 1024px;
+	background-color: white;
+	color: blue;
+	margin: auto;
+}
+h2 {
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	text-align: left;
+	margin: auto;
+	color: black;
+}
+table, th, td {
+	border: 1px solid #dcdcdc;
+	padding: 7px;
+}
+.tieude {
+	background-color: #65a530;
+	color:white;
+	text-align: center;
+}
+.tieuchi {
+	background-color: #ffffbb;
+	text-align: center;
+}
+.scores {
+	font-weight: bold;
+	color: red;
+}
+.top4 {
+	background-color: #d5ffff;
+}
+.top5 {
+	background-color: #e8f5de;
+}
+.top6 {
+	background-color: #d7d7d7;
+}
+.top20 {
+	background-color: #ffeaea;
+}
